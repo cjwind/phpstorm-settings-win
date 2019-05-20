@@ -1,0 +1,7 @@
+<keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl alt add" />
+    <keyboard-shortcut first-keystroke="ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="ctrl multiply" />
+  </action>
+</keymap>
