@@ -19,4 +19,10 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="expex" value="$this-&gt;tester-&gt;expectException($EXCEPTION_NAME$, function() {&#10;    $END$&#10;});" description="expectException" toReformat="true" toShortenFQNames="true">
+    <variable name="EXCEPTION_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
