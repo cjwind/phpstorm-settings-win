@@ -5,4 +5,11 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="aseq" value="$this-&gt;assertEquals($EXPECTED$, $ACTUAL$);" description="assertEquals()" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
