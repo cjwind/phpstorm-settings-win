@@ -25,4 +25,16 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="ast" value="$this-&gt;assertTrue($ACTUAL$);" description="assertTrue()" toReformat="true" toShortenFQNames="true">
+    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="asf" value="$this-&gt;assertFalse($ACTUAL$);" description="assertFalse()" toReformat="true" toShortenFQNames="true">
+    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
