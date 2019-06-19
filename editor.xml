@@ -13,5 +13,9 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\btodo: implement\b.*" />
+    <filter name="implement">
+      <pattern index="2" />
+    </filter>
   </component>
 </application>
