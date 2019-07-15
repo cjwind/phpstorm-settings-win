@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\payment\storage\yiiActiveRecords\PaymentVirtualAccount.php [utb]'" />
-    <option name="defaultScopeName" value="File '...\payment\storage\yiiActiveRecords\PaymentVirtualAccount.php [utb]'" />
-    <option name="SEARCH_SCOPE" value="File '...\payment\storage\yiiActiveRecords\PaymentVirtualAccount.php [utb]'" />
+    <option name="customScope" value="File '...\commands\TestController.php [savvytickets]'" />
+    <option name="defaultScopeName" value="File '...\commands\TestController.php [savvytickets]'" />
+    <option name="SEARCH_SCOPE" value="File '...\commands\TestController.php [savvytickets]'" />
   </component>
 </application>
