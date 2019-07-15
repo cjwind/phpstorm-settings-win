@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\commands\TestController.php [savvytickets]'" />
-    <option name="defaultScopeName" value="File '...\commands\TestController.php [savvytickets]'" />
-    <option name="SEARCH_SCOPE" value="File '...\commands\TestController.php [savvytickets]'" />
+    <option name="customScope" value="File '...\payment\PaymentPaidEventBinder.php [utb]'" />
+    <option name="defaultScopeName" value="File '...\payment\PaymentPaidEventBinder.php [utb]'" />
+    <option name="SEARCH_SCOPE" value="File '...\payment\PaymentPaidEventBinder.php [utb]'" />
   </component>
 </application>
