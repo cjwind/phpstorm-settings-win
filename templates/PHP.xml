@@ -45,4 +45,10 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="asne" value="$this-&gt;assertNotEmpty($ACTUAL$);" description="assertNotEmpty" toReformat="true" toShortenFQNames="true">
+    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
