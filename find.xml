@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\test\php\tests\unit\models\HotelBookerTest.php [utb]'" />
-    <option name="defaultScopeName" value="File '...\test\php\tests\unit\models\HotelBookerTest.php [utb]'" />
-    <option name="SEARCH_SCOPE" value="File '...\test\php\tests\unit\models\HotelBookerTest.php [utb]'" />
+    <option name="customScope" value="File '...\tests\php\unit\models\HotelOrderCancelCheckerTest.php'" />
+    <option name="defaultScopeName" value="File '...\tests\php\unit\models\HotelOrderCancelCheckerTest.php'" />
+    <option name="SEARCH_SCOPE" value="File '...\tests\php\unit\models\HotelOrderCancelCheckerTest.php'" />
   </component>
 </application>
