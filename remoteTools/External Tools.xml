@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="dumpTestSchema" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="472b787a-653a-4c9e-8b01-61150e6ad77b">
+    <exec>
+      <option name="COMMAND" value="/home/zoe/source/PrestoTravel/oconf" />
+      <option name="PARAMETERS" value="dumpTestSchema" />
+      <option name="WORKING_DIRECTORY" value="/home/zoe/source/PrestoTravel" />
+    </exec>
+  </tool>
+</toolSet>
