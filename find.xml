@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\hotel\agoda\AgodaBooker.php'" />
-    <option name="defaultScopeName" value="File '...\hotel\agoda\AgodaBooker.php'" />
-    <option name="SEARCH_SCOPE" value="File '...\hotel\agoda\AgodaBooker.php'" />
+    <option name="customScope" value="File '...\tests\php\unit\storage\yiiStorages\TransactionPrestoPayStorageTest.php'" />
+    <option name="defaultScopeName" value="File '...\tests\php\unit\storage\yiiStorages\TransactionPrestoPayStorageTest.php'" />
+    <option name="SEARCH_SCOPE" value="File '...\tests\php\unit\storage\yiiStorages\TransactionPrestoPayStorageTest.php'" />
   </component>
 </application>
