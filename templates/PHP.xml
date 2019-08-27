@@ -45,17 +45,23 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="asne" value="$this-&gt;assertNotEmpty($ACTUAL$);" description="assertNotEmpty" toReformat="true" toShortenFQNames="true">
-    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP Statement" value="true" />
-    </context>
-  </template>
   <template name="ipubf" value="public function $NAME$($PARAMETERS$);" description="public function prototype" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Interface Member" value="true" />
+    </context>
+  </template>
+  <template name="asn" value="$this-&gt;assertNull($ACTUAL$);" description="assertNull()" toReformat="true" toShortenFQNames="true">
+    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="asne" value="$this-&gt;assertNotEmpty($ACTUAL$);" description="assertNotEmpty()" toReformat="true" toShortenFQNames="true">
+    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
     </context>
   </template>
 </templateSet>
