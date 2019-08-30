@@ -17,4 +17,7 @@
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
 </keymap>
