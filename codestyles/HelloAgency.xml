@@ -87,4 +87,9 @@
       </rules>
     </arrangement>
   </codeStyleSettings>
+  <codeStyleSettings language="Shell Script">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
