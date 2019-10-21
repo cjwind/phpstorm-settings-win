@@ -23,6 +23,9 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
