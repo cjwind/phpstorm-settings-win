@@ -1,5 +1,12 @@
 <toolSet name="Navisteps">
-  <tool name="migrate db" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+  <tool name="rollback test db" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\source\Navisteps\backend\vendor\bin\phinx.bat" />
+      <option name="PARAMETERS" value="rollback -c config/phinx.php -e test -t 0" />
+      <option name="WORKING_DIRECTORY" value="D:/source/Navisteps/backend" />
+    </exec>
+  </tool>
+  <tool name="migrate test db" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="D:\source\Navisteps\backend\vendor\bin\phinx.bat" />
       <option name="PARAMETERS" value="migrate -c config/phinx.php -e test" />
