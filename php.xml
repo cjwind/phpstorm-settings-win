@@ -11,7 +11,7 @@
       <interpreter id="f3742d6e-07e2-4ca3-9fe6-1fc43e507397" name="Remote PHP 7.1" home="ssh://DATA" debugger_id="php.debugger.XDebug">
         <remote_data HOST="twdev.7nm.org" PORT="22" USERNAME="zoe" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/zoe/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
       </interpreter>
-      <interpreter id="ca06eb02-0c19-4913-a854-20d306258309" name="PHP 7.3.9" home="C:\php7.3.9\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="ca06eb02-0c19-4913-a854-20d306258309" name="PHP 7.3.9" home="C:\php\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="bf132364-e712-46c3-8989-7c71414ca965" name="PHP 7.1" home="C:\php7.1\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
@@ -147,9 +147,9 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.3.9">
-        <phpinfo binary_type="PHP" php_cgi="C:\php7.3.9\php-cgi.exe" php_cli="C:\php7.3.9\php.exe" path_separator=";" version="7.3.9">
+        <phpinfo binary_type="PHP" php_cgi="C:\php\php-cgi.exe" php_cli="C:\php\php.exe" path_separator=";" version="7.3.9">
           <additional_php_ini />
-          <configuration_file>C:\php7.3.9\php.ini</configuration_file>
+          <configuration_file>C:\php\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
@@ -171,6 +171,7 @@
             <extension name="iconv" />
             <extension name="json" />
             <extension name="libxml" />
+            <extension name="memcache" />
             <extension name="mysqlnd" />
             <extension name="pcre" />
             <extension name="readline" />
