@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="dumpTestSchema" description="dump test schema" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="5dfb32da-4f92-4933-84be-50a798f13996">
+  <tool name="dumpTestSchema" description="dump test schema" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="5dfb32da-4f92-4933-84be-50a798f13996">
     <exec>
       <option name="COMMAND" value="/home/zoe/source/PrestoTravel/oconf" />
       <option name="PARAMETERS" value="dumpTestSchema" />

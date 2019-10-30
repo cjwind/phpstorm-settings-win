@@ -1,0 +1,9 @@
+<toolSet name="Navisteps">
+  <tool name="phinx migrate db" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="3051568f-3d98-414f-b3fe-2251b280cbcb">
+    <exec>
+      <option name="COMMAND" value="/home/zoe/source/PrestoTravel/oconf" />
+      <option name="PARAMETERS" value="migrate migrate" />
+      <option name="WORKING_DIRECTORY" value="/home/zoe/source/Navisteps" />
+    </exec>
+  </tool>
+</toolSet>

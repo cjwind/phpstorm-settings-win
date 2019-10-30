@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="5dfb32da-4f92-4933-84be-50a798f13996" name="Copy of project-level server 'twdev'" url="http://twdev.7nm.org">
+      <webServer id="3051568f-3d98-414f-b3fe-2251b280cbcb" name="twdev" url="http://twdev.7nm.org">
         <fileTransfer host="twdev.7nm.org" port="22" rootFolder="/home/zoe" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
