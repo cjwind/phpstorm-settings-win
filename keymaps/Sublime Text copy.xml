@@ -1,4 +1,7 @@
 <keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
