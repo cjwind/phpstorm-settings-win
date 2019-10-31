@@ -33,6 +33,15 @@
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="Tool_Navisteps_dev db migrate status">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt s" />
+  </action>
+  <action id="Tool_Navisteps_migrate dev db">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt m" />
+  </action>
+  <action id="Tool_Navisteps_rollback dev db">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt r" />
+  </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
