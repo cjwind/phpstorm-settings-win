@@ -30,7 +30,6 @@
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="Git.Pull">
-    <keyboard-shortcut first-keystroke="alt u" />
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="GotoTest">
@@ -44,6 +43,9 @@
   </action>
   <action id="Tool_Navisteps_rollback dev db">
     <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt r" />
+  </action>
+  <action id="Vcs.Diff.ExcludeChangedLinesFromCommit">
+    <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="alt p" />
