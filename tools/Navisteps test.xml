@@ -15,8 +15,8 @@
   </tool>
   <tool name="dump unit test db" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="D:\source\Navisteps\oconf" />
-      <option name="PARAMETERS" />
+      <option name="COMMAND" value="C:\Program Files\Git\bin\bash.exe" />
+      <option name="PARAMETERS" value="D:\source\Navisteps\oconf dump-db" />
       <option name="WORKING_DIRECTORY" value="D:/source/Navisteps" />
     </exec>
   </tool>
