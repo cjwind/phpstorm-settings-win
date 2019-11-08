@@ -1,4 +1,4 @@
-<toolSet name="Navisteps api test">
+<toolSet name="Navisteps test">
   <tool name="rollback api test db" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="D:\source\Navisteps\backend\vendor\bin\phinx.bat" />
@@ -11,6 +11,13 @@
       <option name="COMMAND" value="D:\source\Navisteps\backend\vendor\bin\phinx.bat" />
       <option name="PARAMETERS" value="migrate -c config/phinx.php -e test" />
       <option name="WORKING_DIRECTORY" value="D:/source/Navisteps/backend" />
+    </exec>
+  </tool>
+  <tool name="dump unit test db" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\source\Navisteps\oconf" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="D:/source/Navisteps" />
     </exec>
   </tool>
 </toolSet>
