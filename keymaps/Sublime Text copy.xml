@@ -1,4 +1,19 @@
 <keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="CodeCleanup">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="Coverage">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+  </action>
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
+  </action>
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
     <keyboard-shortcut first-keystroke="shift tab" />
@@ -8,7 +23,31 @@
     <keyboard-shortcut first-keystroke="ctrl alt equals" />
     <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="ctrl multiply" />
   </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="Tool_Navisteps_dev db migrate status">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt s" />
+  </action>
+  <action id="Tool_Navisteps_migrate dev db">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt m" />
+  </action>
+  <action id="Tool_Navisteps_rollback dev db">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt r" />
+  </action>
+  <action id="Vcs.Diff.ExcludeChangedLinesFromCommit">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="alt p" />
   </action>
 </keymap>
