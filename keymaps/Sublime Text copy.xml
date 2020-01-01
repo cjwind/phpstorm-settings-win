@@ -5,9 +5,6 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
-  <action id="CodeCleanup">
-    <keyboard-shortcut first-keystroke="alt i" />
-  </action>
   <action id="Coverage">
     <keyboard-shortcut first-keystroke="shift ctrl f11" />
   </action>
