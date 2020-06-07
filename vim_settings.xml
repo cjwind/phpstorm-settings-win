@@ -86,8 +86,8 @@
       <file name="/Dummy.txt" timestamp="1591492601168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" timestamp="1591502211383">
-        <mark key="'" line="190" column="16" />
+      <file name="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" timestamp="1591505288344">
+        <mark key="'" line="199" column="0" />
       </file>
       <file name="D:/source/tdd/tdd-workshop/src/Tennis.php" timestamp="1591502043198">
         <mark key="'" line="9" column="14" />
@@ -174,12 +174,24 @@
       <jump line="119" column="21" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
       <jump line="121" column="9" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
       <jump line="126" column="22" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
-      <jump line="195" column="8" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
       <jump line="200" column="58" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
       <jump line="191" column="21" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
       <jump line="187" column="48" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
       <jump line="189" column="17" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
       <jump line="190" column="16" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="195" column="8" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="169" column="0" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="173" column="0" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="179" column="0" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="186" column="0" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="188" column="0" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="196" column="0" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="224" column="0" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="218" column="0" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="213" column="0" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="209" column="0" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="204" column="0" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="199" column="0" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
