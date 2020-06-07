@@ -10,6 +10,15 @@
         <entry>Client</entry>
         <entry>ht</entry>
         <entry>arr</entry>
+        <entry>For</entry>
+        <entry>Fif</entry>
+        <entry encoding="base64">XDxhcnJheV9maWx0ZXJcPg==</entry>
+        <entry encoding="base64">XDx0YXJnZXRcPg==</entry>
+        <entry>bas</entry>
+        <entry encoding="base64">XDxiYXNlXD4=</entry>
+        <entry>ra</entry>
+        <entry>hotel</entry>
+        <entry>whi</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
@@ -77,8 +86,11 @@
       <file name="/Dummy.txt" timestamp="1591492601168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/source/tdd/tdd-workshop/src/Tennis.php" timestamp="1591498867383">
-        <mark key="'" line="16" column="0" />
+      <file name="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" timestamp="1591502211383">
+        <mark key="'" line="190" column="16" />
+      </file>
+      <file name="D:/source/tdd/tdd-workshop/src/Tennis.php" timestamp="1591502043198">
+        <mark key="'" line="9" column="14" />
         <mark key="[" line="23" column="65" />
         <mark key="]" line="23" column="76" />
         <mark key="^" line="23" column="76" />
@@ -87,11 +99,11 @@
       <file name="/a.dummy" timestamp="1591494263758">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" timestamp="1591502007270">
-        <mark key="'" line="111" column="26" />
+      <file name="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" timestamp="1591502151362">
+        <mark key="'" line="126" column="22" />
       </file>
-      <file name="D:/source/tdd/tdd-workshop/tests/TennisTest.php" timestamp="1591500291859">
-        <mark key="'" line="41" column="0" />
+      <file name="D:/source/tdd/tdd-workshop/tests/TennisTest.php" timestamp="1591502040334">
+        <mark key="'" line="27" column="32" />
         <mark key="[" line="59" column="4" />
         <mark key="]" line="59" column="4" />
         <mark key="." line="59" column="4" />
@@ -100,7 +112,6 @@
     <jumps>
       <jump line="19" column="12" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
       <jump line="22" column="46" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
-      <jump line="27" column="0" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
       <jump line="7" column="0" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
       <jump line="13" column="0" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
       <jump line="16" column="0" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
@@ -109,7 +120,6 @@
       <jump line="17" column="21" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="59" column="4" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="62" column="4" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
-      <jump line="55" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="51" column="40" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="50" column="4" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="56" column="4" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
@@ -118,7 +128,6 @@
       <jump line="60" column="8" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="47" column="4" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="0" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
-      <jump line="27" column="4" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="26" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="33" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="7" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
@@ -140,7 +149,37 @@
       <jump line="3" column="15" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
       <jump line="112" column="22" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
       <jump line="99" column="22" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="54" column="15" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="27" column="0" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
+      <jump line="55" column="30" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="49" column="32" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="27" column="32" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="11" column="14" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
+      <jump line="9" column="14" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
+      <jump line="71" column="34" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="68" column="9" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="40" column="41" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="113" column="34" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="123" column="13" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="129" column="25" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="141" column="20" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="160" column="84" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="162" column="108" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="39" column="31" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="43" column="38" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="107" column="44" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
       <jump line="111" column="26" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="117" column="19" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="118" column="19" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="119" column="21" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="121" column="9" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="126" column="22" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="195" column="8" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="200" column="58" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="191" column="21" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="187" column="48" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="189" column="17" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="190" column="16" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -152,7 +191,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>arr</text>
+        <text>whi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
@@ -191,9 +230,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>arr</last-search>
+      <last-search>whi</last-search>
       <last-offset />
-      <last-pattern>arr</last-pattern>
+      <last-pattern>whi</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
