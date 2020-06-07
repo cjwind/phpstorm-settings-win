@@ -19,6 +19,8 @@
         <entry>ra</entry>
         <entry>hotel</entry>
         <entry>whi</entry>
+        <entry>crea</entry>
+        <entry>clas</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
@@ -86,8 +88,8 @@
       <file name="/Dummy.txt" timestamp="1591492601168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" timestamp="1591505288344">
-        <mark key="'" line="199" column="0" />
+      <file name="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" timestamp="1591505899667">
+        <mark key="'" line="47" column="4" />
       </file>
       <file name="D:/source/tdd/tdd-workshop/src/Tennis.php" timestamp="1591502043198">
         <mark key="'" line="9" column="14" />
@@ -192,6 +194,14 @@
       <jump line="209" column="0" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
       <jump line="204" column="0" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
       <jump line="199" column="0" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="216" column="23" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="206" column="49" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="27" column="0" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="40" column="8" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="36" column="0" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="45" column="0" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="37" column="205" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="47" column="4" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -203,7 +213,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>whi</text>
+        <text>clas</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
@@ -242,10 +252,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>whi</last-search>
+      <last-search>clas</last-search>
       <last-offset />
-      <last-pattern>whi</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>clas</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
