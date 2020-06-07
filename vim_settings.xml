@@ -32,6 +32,7 @@
         <entry>source D:\php_ideavimrc.txt</entry>
         <entry>set</entry>
         <entry>source C:\Users\cjw\vimfiles\.ideavimrc</entry>
+        <entry encoding="base64">c291cmNlIEM6XFVzZXJzXGNqd1x2aW1maWxlc1wuaWRlYXZpbXJjIA==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -124,7 +125,11 @@
       <file name="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" timestamp="1591502151362">
         <mark key="'" line="126" column="22" />
       </file>
-      <file name="$USER_HOME$/_ideavimrc" timestamp="1591515771348" />
+      <file name="$USER_HOME$/_ideavimrc" timestamp="1591516018787">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+      </file>
       <file name="D:/source/tdd/tdd-workshop/tests/TennisTest.php" timestamp="1591511962385">
         <mark key="'" line="52" column="28" />
         <mark key="[" line="53" column="23" />
@@ -241,14 +246,14 @@
       <register name="a" type="2">
         <text encoding="base64">CQkJCSdnZXRDdmMnID0+ICcyMjInLAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCSdnZXRCb29raW5nU3RhdHVzJwo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="c" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>123456******3456</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>123</text>
@@ -284,7 +289,7 @@
         <text encoding="base64">CQkJCSdnZXRJZCcgPT4gMiwKCQkJCSdnZXRUeXBlJyA9PiAnbWFzdGVyJywKCQkJCSdnZXROdW1iZXInID0+ICc2NTQzMjEwOTg3NjU0MzIxJywKCQkJCSdnZXRNYXNrZWROdW1iZXInID0+ICc2NTQzMjEqKioqKio0MzIxJywKCQkJCSdnZXRFeHBpcmVEYXRlJyA9PiAnMDcyMDI5JywKCQkJCSdnZXRDdmMnID0+ICcyMjInLAoJCQkJJ2dldEhvbGRlck5hbWUnID0+ICdob2xkZXIgbmFtZScsCgkJCQknZ2V0Q291bnRyeU9mSXNzdWUnID0+ICdUVycsCgkJCQknZ2V0SXNzdWluZ0JhbmsnID0+ICdDaXRpJyw=</text>
       </register>
       <register name=":" type="4">
-        <text>source C:\Users\cjw\vimfiles\.ideavimrc</text>
+        <text encoding="base64">c291cmNlIEM6XFVzZXJzXGNqd1x2aW1maWxlc1wuaWRlYXZpbXJjIA==</text>
       </register>
     </registers>
   </component>
