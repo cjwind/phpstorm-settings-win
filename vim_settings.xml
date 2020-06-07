@@ -54,6 +54,9 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -62,11 +65,11 @@
       <file name="/Dummy.txt" timestamp="1591492601168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/source/tdd/tdd-workshop/src/Tennis.php" timestamp="1591494580666">
-        <mark key="[" line="10" column="35" />
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="33" />
+      <file name="D:/source/tdd/tdd-workshop/src/Tennis.php" timestamp="1591496951417">
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="25" column="6" />
+        <mark key="^" line="25" column="6" />
+        <mark key="." line="25" column="5" />
       </file>
       <file name="/a.dummy" timestamp="1591494263758">
         <mark key="[" line="0" column="0" />
@@ -84,29 +87,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0R2V0U2NvcmVGb3J0eUxvdmUoKQogICAgewogICAgICAgICR0aGlzLT50ZW5uaXMtPmZpcnN0UGxheWVyU2NvcmUoKTsKICAgICAgICAkdGhpcy0+dGVubmlzLT5maXJzdFBsYXllclNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnRlbm5pcy0+Zmlyc3RQbGF5ZXJTY29yZSgpOwogICAgICAgICR0aGlzLT53aGVuR2V0U2NvcmUoKTsKICAgICAgICAkdGhpcy0+c2NvcmVTaG91bGRCZSgnRm9ydHkgTG92ZScpOwogICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZihmamRhKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgIGlmICgkdGhpcy0+Zmlyc3RQbGF5ZXJTY29yZUNvdW50ID09IDIpIHsKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmOjpTQ09SRV9NQVBbJHRoaXMtPmZpcnN0UGxheWVyU2NvcmVDb3VudF0gLiAnIExvdmUnOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgaWYgKCR0aGlzLT5maXJzdFBsYXllclNjb3JlQ291bnQgPT0gMykgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAnRm9ydHkgTG92ZSc7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZihmamRhKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgIGlmICgkdGhpcy0+Zmlyc3RQbGF5ZXJTY29yZUNvdW50ID09IDIpIHsKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmOjpTQ09SRV9NQVBbJHRoaXMtPmZpcnN0UGxheWVyU2NvcmVDb3VudF0gLiAnIExvdmUnOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgaWYgKCR0aGlzLT5maXJzdFBsYXllclNjb3JlQ291bnQgPT0gMykgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAnRm9ydHkgTG92ZSc7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dGVubmlzLT5maXJzdFBsYXllclNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnRlbm5pcy0+Zmlyc3RQbGF5ZXJTY29yZSgpOwogICAgICAgICR0aGlzLT50ZW5uaXMtPmZpcnN0UGxheWVyU2NvcmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZihmamRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dGVubmlzLT5maXJzdFBsYXllclNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnRlbm5pcy0+Zmlyc3RQbGF5ZXJTY29yZSgpOwogICAgICAgICR0aGlzLT50ZW5uaXMtPmZpcnN0UGxheWVyU2NvcmUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIHsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0VEVzdCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Forty Love</text>
+        <text>'Thirty'</text>
       </register>
     </registers>
   </component>

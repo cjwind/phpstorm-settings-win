@@ -29,6 +29,12 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="GotoNextElementUnderCaretUsage">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="down" />
+  </action>
+  <action id="GotoPrevElementUnderCaretUsage">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="up" />
+  </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
