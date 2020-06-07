@@ -2,6 +2,11 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
@@ -54,17 +59,56 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591492347414">
+      <file name="/Dummy.txt" timestamp="1591492601168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/source/tdd/tdd-workshop/src/Tennis.php" timestamp="1591492429686">
-        <mark key="[" line="8" column="0" />
+      <file name="D:/source/tdd/tdd-workshop/src/Tennis.php" timestamp="1591494580666">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="33" />
+      </file>
+      <file name="/a.dummy" timestamp="1591494263758">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/source/tdd/tdd-workshop/tests/TennisTest.php" timestamp="1591494801149">
+        <mark key="[" line="50" column="5" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0R2V0U2NvcmVGb3J0eUxvdmUoKQogICAgewogICAgICAgICR0aGlzLT50ZW5uaXMtPmZpcnN0UGxheWVyU2NvcmUoKTsKICAgICAgICAkdGhpcy0+dGVubmlzLT5maXJzdFBsYXllclNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnRlbm5pcy0+Zmlyc3RQbGF5ZXJTY29yZSgpOwogICAgICAgICR0aGlzLT53aGVuR2V0U2NvcmUoKTsKICAgICAgICAkdGhpcy0+c2NvcmVTaG91bGRCZSgnRm9ydHkgTG92ZScpOwogICAgfQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZihmamRhKQo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZihmamRhKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dGVubmlzLT5maXJzdFBsYXllclNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnRlbm5pcy0+Zmlyc3RQbGF5ZXJTY29yZSgpOwogICAgICAgICR0aGlzLT50ZW5uaXMtPmZpcnN0UGxheWVyU2NvcmUoKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0VEVzdCgpCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>Forty Love</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
