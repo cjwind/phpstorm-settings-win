@@ -23,6 +23,8 @@
         <entry>clas</entry>
         <entry>hot</entry>
         <entry>che</entry>
+        <entry encoding="base64">XDxnZXRJZFw+</entry>
+        <entry>getId</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
@@ -90,12 +92,12 @@
       <file name="/Dummy.txt" timestamp="1591492601168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" timestamp="1591508898489">
+      <file name="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" timestamp="1591509174203">
         <mark key="'" line="200" column="22" />
-        <mark key="[" line="230" column="52" />
-        <mark key="]" line="230" column="52" />
-        <mark key="." line="230" column="52" />
-        <mark key="^" line="230" column="52" />
+        <mark key="[" line="276" column="71" />
+        <mark key="]" line="276" column="71" />
+        <mark key="." line="276" column="71" />
+        <mark key="^" line="276" column="86" />
       </file>
       <file name="D:/source/tdd/tdd-workshop/src/Tennis.php" timestamp="1591502043198">
         <mark key="'" line="9" column="14" />
@@ -106,6 +108,13 @@
       </file>
       <file name="/a.dummy" timestamp="1591494263758">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/source/travelskope/utb/test/php/tests/unit/models/AgodaBookerTest.php" timestamp="1591510514446">
+        <mark key="'" line="568" column="12" />
+        <mark key="[" line="553" column="0" />
+        <mark key="]" line="553" column="0" />
+        <mark key="." line="553" column="0" />
+        <mark key="^" line="569" column="26" />
       </file>
       <file name="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" timestamp="1591502151362">
         <mark key="'" line="126" column="22" />
@@ -118,8 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="12" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
-      <jump line="22" column="46" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
       <jump line="7" column="0" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
       <jump line="13" column="0" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
       <jump line="16" column="0" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
@@ -213,48 +220,58 @@
       <jump line="95" column="71" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
       <jump line="97" column="9" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
       <jump line="200" column="22" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="508" column="17" filename="D:/source/travelskope/utb/test/php/tests/unit/models/AgodaBookerTest.php" />
+      <jump line="543" column="16" filename="D:/source/travelskope/utb/test/php/tests/unit/models/AgodaBookerTest.php" />
+      <jump line="541" column="19" filename="D:/source/travelskope/utb/test/php/tests/unit/models/AgodaBookerTest.php" />
+      <jump line="540" column="16" filename="D:/source/travelskope/utb/test/php/tests/unit/models/AgodaBookerTest.php" />
+      <jump line="542" column="25" filename="D:/source/travelskope/utb/test/php/tests/unit/models/AgodaBookerTest.php" />
+      <jump line="553" column="25" filename="D:/source/travelskope/utb/test/php/tests/unit/models/AgodaBookerTest.php" />
+      <jump line="568" column="12" filename="D:/source/travelskope/utb/test/php/tests/unit/models/AgodaBookerTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>In</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCSdnZXRJZCcgPT4gMiwKCQkJCSdnZXRUeXBlJyA9PiAnbWFzdGVyJywKCQkJCSdnZXROdW1iZXInID0+ICc2NTQzMjEwOTg3NjU0MzIxJywKCQkJCSdnZXRNYXNrZWROdW1iZXInID0+ICc2NTQzMjEqKioqKio0MzIxJywKCQkJCSdnZXRFeHBpcmVEYXRlJyA9PiAnMDcyMDI5JywKCQkJCSdnZXRDdmMnID0+ICcyMjInLAoJCQkJJ2dldEhvbGRlck5hbWUnID0+ICdob2xkZXIgbmFtZScsCgkJCQknZ2V0Q291bnRyeU9mSXNzdWUnID0+ICdUVycsCgkJCQknZ2V0SXNzdWluZ0JhbmsnID0+ICdDaXRpJyw=</text>
+      </register>
+      <register name="c" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>In</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>che</text>
+        <text>getId</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXByaXZhdGUgZnVuY3Rpb24gYm9va2luZ1dpdGhDcmVkaXRDYXJkKE9yZGVyICRvcmRlciwgJGhvdGVsQWdvZGFCb29raW5nLCBzdHJpbmcgJHRhZykgewoJCSRib29raW5nVGltZXMgPSAxOwoJCSRyZXQgPSBudWxsOwoJCSRjcmVkaXRDYXJkID0gJHRoaXMtPmNyZWRpdENhcmRQb29sLT5nZXRDcmVkaXRDYXJkKCk7CgoJCXdoaWxlICgkY3JlZGl0Q2FyZCkgewoJCQkkbG9nID0gJHRoaXMtPmJvb2tpbmdBdXRoTG9nU3RvcmFnZS0+Y3JlYXRlTG9nKCRvcmRlci0+Z2V0SWQoKSwgJGNyZWRpdENhcmQtPmdldE1hc2tlZE51bWJlcigpLCAkYm9va2luZ1RpbWVzKTsKCQkJJHJldCA9ICR0aGlzLT5kb0NoYW5uZWxCb29raW5nKCRvcmRlciwgJGhvdGVsQWdvZGFCb29raW5nLCAkdGFnLCAkY3JlZGl0Q2FyZCk7CgkJCSR0aGlzLT5ib29raW5nQXV0aExvZ1N0b3JhZ2UtPnVwZGF0ZUxvZygkbG9nLCAkcmV0LT5pc1N1Y2Nlc3MoKSwgJHJldC0+Z2V0RXJyb3JzKCkpOwoKCQkJaWYgKCEkcmV0LT5pc0NyZWRpdENhcmRFcnJvcigpKSB7CgkJCQlicmVhazsKCQkJfQoKCQkJaWYgKCR0aGlzLT5ldmVudE5vdGlmaWVyKSB7CgkJCQkkZXJyb3IgPSAkcmV0LT5nZXRDcmVkaXRDYXJkRXJyb3IoKTsKCQkJCSR0aGlzLT5ldmVudE5vdGlmaWVyLT5ub3RpZnlTeXN0ZW1FdmVudChJRXZlbnROb3RpZmllcjo6TEVWRUxfQUxFUlQsICdBZ29kYSBib29raW5nIHdpdGggY3JlZGl0IGNhcmQgJyAuICRjcmVkaXRDYXJkLT5nZXRNYXNrZWROdW1iZXIoKSAuICcgZmFpbGVkLiAoJyAuICRlcnJvclsnaWQnXSAuICcuJyAuICRlcnJvclsnc3ViaWQnXSAuICcgJyAuICRlcnJvclsnbXNnJ10gLiAnKScpOwoJCQl9CgoJCQkkYm9va2luZ1RpbWVzKys7CgkJCSRjcmVkaXRDYXJkID0gJHRoaXMtPmNyZWRpdENhcmRQb29sLT5nZXRDcmVkaXRDYXJkKCk7CgkJfQoJCXJldHVybiAkcmV0OwoJfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">SW4nXSwKCQkJJGhvdGVsQWdvZGFCb29raW5nLT5zZWFyY2hDb250ZXh0Wyc=</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCSdnZXRJZCcgPT4gMiwKCQkJCSdnZXRUeXBlJyA9PiAnbWFzdGVyJywKCQkJCSdnZXROdW1iZXInID0+ICc2NTQzMjEwOTg3NjU0MzIxJywKCQkJCSdnZXRNYXNrZWROdW1iZXInID0+ICc2NTQzMjEqKioqKio0MzIxJywKCQkJCSdnZXRFeHBpcmVEYXRlJyA9PiAnMDcyMDI5JywKCQkJCSdnZXRDdmMnID0+ICcyMjInLAoJCQkJJ2dldEhvbGRlck5hbWUnID0+ICdob2xkZXIgbmFtZScsCgkJCQknZ2V0Q291bnRyeU9mSXNzdWUnID0+ICdUVycsCgkJCQknZ2V0SXNzdWluZ0JhbmsnID0+ICdDaXRpJyw=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPmNoYW5uZWwgPSAkY2hhbm5lbDsK</text>
+      <register name="2" type="4">
+        <text>a</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPmNoYW5uZWwgPSAkY2hhbm5lbDsK</text>
+        <text encoding="base64">CQkJCSdnZXRJZCcgPT4gMSwKCQkJCSdnZXRUeXBlJyA9PiAndmlzYScsCgkJCQknZ2V0TnVtYmVyJyA9PiAnMTIzNDU2Nzg5MDEyMzQ1NicsCgkJCQknZ2V0TWFza2VkTnVtYmVyJyA9PiAnMTIzNDU2KioqKioqMzQ1NicsCgkJCQknZ2V0RXhwaXJlRGF0ZScgPT4gJzA2MjAyOScsCgkJCQknZ2V0Q3ZjJyA9PiAnMTExJywKCQkJCSdnZXRIb2xkZXJOYW1lJyA9PiAnaG9sZGVyIG5hbWUnLAoJCQkJJ2dldENvdW50cnlPZklzc3VlJyA9PiAnVFcnLAoJCQkJJ2dldElzc3VpbmdCYW5rJyA9PiAnQ2l0aScs</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPmNoYW5uZWwgPSAkY2hhbm5lbDsK</text>
+        <text encoding="base64">CQkJCSdnZXRJZCcgPT4gMSwKCQkJCSdnZXRUeXBlJyA9PiAndmlzYScsCgkJCQknZ2V0TnVtYmVyJyA9PiAnMTIzNDU2Nzg5MDEyMzQ1NicsCgkJCQknZ2V0TWFza2VkTnVtYmVyJyA9PiAnMTIzNDU2KioqKioqMzQ1NicsCgkJCQknZ2V0RXhwaXJlRGF0ZScgPT4gJzA2MjAyOScsCgkJCQknZ2V0Q3ZjJyA9PiAnMTExJywKCQkJCSdnZXRIb2xkZXJOYW1lJyA9PiAnaG9sZGVyIG5hbWUnLAoJCQkJJ2dldENvdW50cnlPZklzc3VlJyA9PiAnVFcnLAoJCQkJJ2dldElzc3VpbmdCYW5rJyA9PiAnQ2l0aScs</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkkeD0nMSc7Cg==</text>
+        <text encoding="base64">CQkkb3JkZXIgPSAkdGhpcy0+Y3JlYXRlSG90ZWxPcmRlcigpOwoKCQkkY2FyZHMgPSBbCgkJCVN0dWI6Om1ha2VFbXB0eShJQ3JlZGl0Q2FyZERhbzo6Y2xhc3MsIFsKCQkJCSdnZXRJZCcgPT4gMSwKCQkJCSdnZXRUeXBlJyA9PiAndmlzYScsCgkJCQknZ2V0TnVtYmVyJyA9PiAnMTIzNDU2Nzg5MDEyMzQ1NicsCgkJCQknZ2V0TWFza2VkTnVtYmVyJyA9PiAnMTIzNDU2KioqKioqMzQ1NicsCgkJCQknZ2V0RXhwaXJlRGF0ZScgPT4gJzA2MjAyOScsCgkJCQknZ2V0Q3ZjJyA9PiAnMTExJywKCQkJCSdnZXRIb2xkZXJOYW1lJyA9PiAnaG9sZGVyIG5hbWUnLAoJCQkJJ2dldENvdW50cnlPZklzc3VlJyA9PiAnVFcnLAoJCQkJJ2dldElzc3VpbmdCYW5rJyA9PiAnQ2l0aScsCgkJCV0pLAoJCQlTdHViOjptYWtlRW1wdHkoSUNyZWRpdENhcmREYW86OmNsYXNzLCBbCgkJCQknZ2V0SWQnID0+IDIsCgkJCQknZ2V0VHlwZScgPT4gJ21hc3RlcicsCgkJCQknZ2V0TnVtYmVyJyA9PiAnNjU0MzIxMDk4NzY1NDMyMScsCgkJCQknZ2V0TWFza2VkTnVtYmVyJyA9PiAnNjU0MzIxKioqKioqNDMyMScsCgkJCQknZ2V0RXhwaXJlRGF0ZScgPT4gJzA3MjAyOScsCgkJCQknZ2V0Q3ZjJyA9PiAnMjIyJywKCQkJCSdnZXRIb2xkZXJOYW1lJyA9PiAnaG9sZGVyIG5hbWUnLAoJCQkJJ2dldENvdW50cnlPZklzc3VlJyA9PiAnVFcnLAoJCQkJJ2dldElzc3VpbmdCYW5rJyA9PiAnQ2l0aScsCgkJCV0pLAoJCV07CgkJJHN0dWJDcmVkaXRDYXJkUG9vbCA9IG5ldyBGYWtlQ3JlZGl0Q2FyZFBvb2woKTsKCQkkc3R1YkNyZWRpdENhcmRQb29sLT5zZXRDYXJkcygkY2FyZHMpOwoKCQkkZmFrZVJlc3BvbnNlRXJyb3JzID0gWwoJCQlbCgkJCQknaWQnID0+ICdmYWtlSWQnLAoJCQkJJ3N1YklkJyA9PiAnZmFrZVN1YklkJywKCQkJCSdtc2cnID0+ICdmYWtlTXNnJywKCQkJXQoJCV07CgkJJGZha2VMb2cxID0gU3R1Yjo6bWFrZUVtcHR5KElBZ29kYUJvb2tpbmdBdXRoTG9nRGFvOjpjbGFzcyk7CgkJJGZha2VMb2cyID0gU3R1Yjo6bWFrZUVtcHR5KElBZ29kYUJvb2tpbmdBdXRoTG9nRGFvOjpjbGFzcyk7CgkJJG1vY2tCb29raW5nQXV0aExvZ1N0b3JhZ2UgPSBtOjptb2NrKElBZ29kYUJvb2tpbmdBdXRoTG9nU3RvcmFnZTo6Y2xhc3MpOwoJCSRtb2NrQm9va2luZ0F1dGhMb2dTdG9yYWdlLT5leHBlY3RzKCktPmNyZWF0ZUxvZygkb3JkZXItPmlkLCAnMTIzNDU2KioqKioqMzQ1NicsIDEpLT5hbmRSZXR1cm4oJGZha2VMb2cxKS0+b25jZSgpOwoJCSRtb2NrQm9va2luZ0F1dGhMb2dTdG9yYWdlLT5leHBlY3RzKCktPmNyZWF0ZUxvZygkb3JkZXItPmlkLCAnNjU0MzIxKioqKioqNDMyMScsIDIpLT5hbmRSZXR1cm4oJGZha2VMb2cyKS0+b25jZSgpOwoJCSRtb2NrQm9va2luZ0F1dGhMb2dTdG9yYWdlLT5leHBlY3RzKCktPnVwZGF0ZUxvZygkZmFrZUxvZzEsIGZhbHNlLCAkZmFrZVJlc3BvbnNlRXJyb3JzKS0+b25jZSgpOwoJCSRtb2NrQm9va2luZ0F1dGhMb2dTdG9yYWdlLT5leHBlY3RzKCktPnVwZGF0ZUxvZygkZmFrZUxvZzIsIGZhbHNlLCAkZmFrZVJlc3BvbnNlRXJyb3JzKS0+b25jZSgpOwoKCQkkYm9va2VyID0gbmV3IEFnb2RhQm9va2VyKFN0dWI6Om1ha2VFbXB0eShBZ29kYTo6Y2xhc3MsIFsKCQkJJ2Jvb2tpbmcnID0+IFN0dWI6Om1ha2VFbXB0eShBZ29kYUJvb2tpbmdSZXNwb25zZTo6Y2xhc3MsIFsKCQkJCSdpc0NyZWRpdENhcmRFcnJvcicgPT4gdHJ1ZSwKCQkJCSdpc1N1Y2Nlc3MnID0+IGZhbHNlLAoJCQkJJ2dldEVycm9ycycgPT4gJGZha2VSZXNwb25zZUVycm9ycwoJCQldLCAkdGhpcyksCgkJXSksIG51bGwsICRzdHViQ3JlZGl0Q2FyZFBvb2wsICRtb2NrQm9va2luZ0F1dGhMb2dTdG9yYWdlKTsKCgkJJGJvb2tlci0+Ym9va2luZygkb3JkZXIpOw==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ewogICAgICAgICR0aGlzLT50ZW5uaXMgPSBuZXcgVGVubmlzKCk7CiAgICAgICAgcGFyZW50OjpzZXRVcCgpOwogICAgfQ==</text>
+      <register name="6" type="4">
+        <text encoding="base64">SW4nXSwKCQkJJGhvdGVsQWdvZGFCb29raW5nLT5zZWFyY2hDb250ZXh0Wyc=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdEdldFNjb3JlRm9ydHlMb3ZlKCkKICAgIHsKICAgICAgICAkdGhpcy0+dGVubmlzLT5maXJzdFBsYXllclNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnRlbm5pcy0+Zmlyc3RQbGF5ZXJTY29yZSgpOwogICAgICAgICR0aGlzLT50ZW5uaXMtPmZpcnN0UGxheWVyU2NvcmUoKTsKICAgICAgICAkdGhpcy0+d2hlbkdldFNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnNjb3JlU2hvdWxkQmUoJ0ZvcnR5IExvdmUnKTsKICAgIH0K</text>
+        <text encoding="base64">CQkJJHRoaXMtPmNoYW5uZWwgPSAkY2hhbm5lbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRTY29yZSgpCiAgICB7CiAgICAgICAgaWYgKCR0aGlzLT5maXJzdFBsYXllclNjb3JlQ291bnQgPj0gMSkgewo=</text>
+        <text encoding="base64">CQkJJHRoaXMtPmNoYW5uZWwgPSAkY2hhbm5lbDsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgIGlmICgkdGhpcy0+Zmlyc3RQbGF5ZXJTY29yZUNvdW50ID09IDIpIHsKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmOjpTQ09SRV9NQVBbJHRoaXMtPmZpcnN0UGxheWVyU2NvcmVDb3VudF0gLiAnIExvdmUnOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgaWYgKCR0aGlzLT5maXJzdFBsYXllclNjb3JlQ291bnQgPT0gMykgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAnRm9ydHkgTG92ZSc7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJJHRoaXMtPmNoYW5uZWwgPSAkY2hhbm5lbDsK</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
@@ -263,9 +280,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>che</last-search>
+      <last-search>getId</last-search>
       <last-offset />
-      <last-pattern>che</last-pattern>
+      <last-pattern>getId</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
