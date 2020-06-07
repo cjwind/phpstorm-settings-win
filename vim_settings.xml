@@ -21,6 +21,8 @@
         <entry>whi</entry>
         <entry>crea</entry>
         <entry>clas</entry>
+        <entry>hot</entry>
+        <entry>che</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
@@ -88,11 +90,12 @@
       <file name="/Dummy.txt" timestamp="1591492601168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" timestamp="1591507505642">
-        <mark key="'" line="47" column="4" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" timestamp="1591508898489">
+        <mark key="'" line="200" column="22" />
+        <mark key="[" line="230" column="52" />
+        <mark key="]" line="230" column="52" />
+        <mark key="." line="230" column="52" />
+        <mark key="^" line="230" column="52" />
       </file>
       <file name="D:/source/tdd/tdd-workshop/src/Tennis.php" timestamp="1591502043198">
         <mark key="'" line="9" column="14" />
@@ -179,7 +182,6 @@
       <jump line="119" column="21" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
       <jump line="121" column="9" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
       <jump line="126" column="22" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
-      <jump line="200" column="58" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
       <jump line="191" column="21" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
       <jump line="187" column="48" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
       <jump line="189" column="17" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
@@ -205,48 +207,54 @@
       <jump line="45" column="0" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
       <jump line="37" column="205" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
       <jump line="47" column="4" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="89" column="61" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="91" column="13" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="92" column="87" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="95" column="71" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="97" column="9" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
+      <jump line="200" column="22" filename="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkkeD0nMSc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>In</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>In</text>
       </register>
       <register name="/" type="4">
-        <text>clas</text>
+        <text>che</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgZnVuY3Rpb24gYm9va2luZ1dpdGhDcmVkaXRDYXJkKE9yZGVyICRvcmRlciwgJGhvdGVsQWdvZGFCb29raW5nLCBzdHJpbmcgJHRhZykgewoJCSRib29raW5nVGltZXMgPSAxOwoJCSRyZXQgPSBudWxsOwoJCSRjcmVkaXRDYXJkID0gJHRoaXMtPmNyZWRpdENhcmRQb29sLT5nZXRDcmVkaXRDYXJkKCk7CgoJCXdoaWxlICgkY3JlZGl0Q2FyZCkgewoJCQkkbG9nID0gJHRoaXMtPmJvb2tpbmdBdXRoTG9nU3RvcmFnZS0+Y3JlYXRlTG9nKCRvcmRlci0+Z2V0SWQoKSwgJGNyZWRpdENhcmQtPmdldE1hc2tlZE51bWJlcigpLCAkYm9va2luZ1RpbWVzKTsKCQkJJHJldCA9ICR0aGlzLT5kb0NoYW5uZWxCb29raW5nKCRvcmRlciwgJGhvdGVsQWdvZGFCb29raW5nLCAkdGFnLCAkY3JlZGl0Q2FyZCk7CgkJCSR0aGlzLT5ib29raW5nQXV0aExvZ1N0b3JhZ2UtPnVwZGF0ZUxvZygkbG9nLCAkcmV0LT5pc1N1Y2Nlc3MoKSwgJHJldC0+Z2V0RXJyb3JzKCkpOwoKCQkJaWYgKCEkcmV0LT5pc0NyZWRpdENhcmRFcnJvcigpKSB7CgkJCQlicmVhazsKCQkJfQoKCQkJaWYgKCR0aGlzLT5ldmVudE5vdGlmaWVyKSB7CgkJCQkkZXJyb3IgPSAkcmV0LT5nZXRDcmVkaXRDYXJkRXJyb3IoKTsKCQkJCSR0aGlzLT5ldmVudE5vdGlmaWVyLT5ub3RpZnlTeXN0ZW1FdmVudChJRXZlbnROb3RpZmllcjo6TEVWRUxfQUxFUlQsICdBZ29kYSBib29raW5nIHdpdGggY3JlZGl0IGNhcmQgJyAuICRjcmVkaXRDYXJkLT5nZXRNYXNrZWROdW1iZXIoKSAuICcgZmFpbGVkLiAoJyAuICRlcnJvclsnaWQnXSAuICcuJyAuICRlcnJvclsnc3ViaWQnXSAuICcgJyAuICRlcnJvclsnbXNnJ10gLiAnKScpOwoJCQl9CgoJCQkkYm9va2luZ1RpbWVzKys7CgkJCSRjcmVkaXRDYXJkID0gJHRoaXMtPmNyZWRpdENhcmRQb29sLT5nZXRDcmVkaXRDYXJkKCk7CgkJfQoJCXJldHVybiAkcmV0OwoJfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkkeD0nMSc7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">SW4nXSwKCQkJJGhvdGVsQWdvZGFCb29raW5nLT5zZWFyY2hDb250ZXh0Wyc=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ewogICAgICAgICR0aGlzLT50ZW5uaXMgPSBuZXcgVGVubmlzKCk7CiAgICAgICAgcGFyZW50OjpzZXRVcCgpOwogICAgfQ==</text>
+        <text encoding="base64">CQkJJHRoaXMtPmNoYW5uZWwgPSAkY2hhbm5lbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdEdldFNjb3JlRm9ydHlMb3ZlKCkKICAgIHsKICAgICAgICAkdGhpcy0+dGVubmlzLT5maXJzdFBsYXllclNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnRlbm5pcy0+Zmlyc3RQbGF5ZXJTY29yZSgpOwogICAgICAgICR0aGlzLT50ZW5uaXMtPmZpcnN0UGxheWVyU2NvcmUoKTsKICAgICAgICAkdGhpcy0+d2hlbkdldFNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnNjb3JlU2hvdWxkQmUoJ0ZvcnR5IExvdmUnKTsKICAgIH0K</text>
+        <text encoding="base64">CQkJJHRoaXMtPmNoYW5uZWwgPSAkY2hhbm5lbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRTY29yZSgpCiAgICB7CiAgICAgICAgaWYgKCR0aGlzLT5maXJzdFBsYXllclNjb3JlQ291bnQgPj0gMSkgewo=</text>
+        <text encoding="base64">CQkJJHRoaXMtPmNoYW5uZWwgPSAkY2hhbm5lbDsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgIGlmICgkdGhpcy0+Zmlyc3RQbGF5ZXJTY29yZUNvdW50ID09IDIpIHsKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmOjpTQ09SRV9NQVBbJHRoaXMtPmZpcnN0UGxheWVyU2NvcmVDb3VudF0gLiAnIExvdmUnOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgaWYgKCR0aGlzLT5maXJzdFBsYXllclNjb3JlQ291bnQgPT0gMykgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAnRm9ydHkgTG92ZSc7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkkeD0nMSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihmamRhKQo=</text>
+        <text encoding="base64">ewogICAgICAgICR0aGlzLT50ZW5uaXMgPSBuZXcgVGVubmlzKCk7CiAgICAgICAgcGFyZW50OjpzZXRVcCgpOwogICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dGVubmlzLT5maXJzdFBsYXllclNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnRlbm5pcy0+Zmlyc3RQbGF5ZXJTY29yZSgpOwogICAgICAgICR0aGlzLT50ZW5uaXMtPmZpcnN0UGxheWVyU2NvcmUoKTsK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdEdldFNjb3JlRm9ydHlMb3ZlKCkKICAgIHsKICAgICAgICAkdGhpcy0+dGVubmlzLT5maXJzdFBsYXllclNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnRlbm5pcy0+Zmlyc3RQbGF5ZXJTY29yZSgpOwogICAgICAgICR0aGlzLT50ZW5uaXMtPmZpcnN0UGxheWVyU2NvcmUoKTsKICAgICAgICAkdGhpcy0+d2hlbkdldFNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnNjb3JlU2hvdWxkQmUoJ0ZvcnR5IExvdmUnKTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRTY29yZSgpCiAgICB7CiAgICAgICAgaWYgKCR0aGlzLT5maXJzdFBsYXllclNjb3JlQ291bnQgPj0gMSkgewo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgIGlmICgkdGhpcy0+Zmlyc3RQbGF5ZXJTY29yZUNvdW50ID09IDIpIHsKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmOjpTQ09SRV9NQVBbJHRoaXMtPmZpcnN0UGxheWVyU2NvcmVDb3VudF0gLiAnIExvdmUnOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgaWYgKCR0aGlzLT5maXJzdFBsYXllclNjb3JlQ291bnQgPT0gMykgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAnRm9ydHkgTG92ZSc7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
@@ -255,10 +263,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>clas</last-search>
+      <last-search>che</last-search>
       <last-offset />
-      <last-pattern>clas</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>che</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
