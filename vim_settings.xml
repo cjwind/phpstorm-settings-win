@@ -37,10 +37,14 @@
         <entry>action Inline</entry>
         <entry>action Move</entry>
         <entry encoding="base64">c291cmNlIEM6XFVzZXJzXGNqd1x2aW1maWxlc1wuaWRlYXZpbXJjIA==</entry>
-        <entry>registers</entry>
         <entry>action</entry>
         <entry>action RearrangeCode</entry>
         <entry>actionList</entry>
+        <entry>registers clear</entry>
+        <entry>registers</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
+        <entry>reg clean</entry>
+        <entry>reg</entry>
         <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
@@ -118,10 +122,12 @@
         <mark key="." line="276" column="71" />
         <mark key="^" line="276" column="86" />
       </file>
-      <file name="D:/source/tdd/tdd-workshop/src/Tennis.php" timestamp="1591516665201">
+      <file name="D:/source/tdd/tdd-workshop/src/Tennis.php" timestamp="1591517499456">
         <mark key="b" line="19" column="47" />
-        <mark key="^" line="25" column="76" />
-        <mark key="." line="17" column="30" />
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="13" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="13" />
       </file>
       <file name="/a.dummy" timestamp="1591494263758">
         <mark key="[" line="0" column="0" />
@@ -138,26 +144,21 @@
       <file name="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" timestamp="1591502151362">
         <mark key="'" line="126" column="22" />
       </file>
-      <file name="$USER_HOME$/_ideavimrc" timestamp="1591516018787">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
+      <file name="$USER_HOME$/_ideavimrc" timestamp="1591517391189">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
-      <file name="D:/source/tdd/tdd-workshop/tests/TennisTest.php" timestamp="1591516925068">
-        <mark key="b" line="57" column="0" />
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="57" column="7" />
-        <mark key="]" line="60" column="1" />
-        <mark key="^" line="36" column="29" />
+      <file name="D:/source/tdd/tdd-workshop/tests/TennisTest.php" timestamp="1591518028709">
+        <mark key="b" line="48" column="0" />
+        <mark key="'" line="49" column="27" />
+        <mark key="[" line="48" column="7" />
+        <mark key="]" line="49" column="28" />
+        <mark key="^" line="57" column="0" />
         <mark key="." line="49" column="43" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
-      <jump line="48" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
-      <jump line="41" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
-      <jump line="18" column="30" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
-      <jump line="25" column="11" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
       <jump line="26" column="9" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
       <jump line="28" column="45" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
       <jump line="32" column="13" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
@@ -170,7 +171,6 @@
       <jump line="3" column="15" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
       <jump line="112" column="22" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
       <jump line="99" column="22" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
-      <jump line="54" column="15" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="27" column="0" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
       <jump line="55" column="30" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="11" column="14" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
@@ -242,17 +242,23 @@
       <jump line="549" column="8" filename="D:/source/travelskope/utb/test/php/tests/unit/models/AgodaBookerTest.php" />
       <jump line="537" column="68" filename="D:/source/travelskope/utb/test/php/tests/unit/models/AgodaBookerTest.php" />
       <jump line="591" column="4" filename="D:/source/travelskope/utb/test/php/tests/unit/models/AgodaBookerTest.php" />
-      <jump line="59" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="65" column="26" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="19" column="8" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
       <jump line="25" column="35" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
-      <jump line="57" column="38" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="27" column="4" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="39" column="27" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="33" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="35" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="58" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="60" column="16" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="57" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="59" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="49" column="4" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="67" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="48" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="50" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="42" column="4" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="54" column="27" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -264,13 +270,13 @@
         <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="b" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gdGVzdEdldFNjb3JlRm9ydHlMb3ZlKCkKICAgIHsKICAgICAgICAkdGhpcy0+dGVubmlzLT5maXJzdFBsYXllclNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnRlbm5pcy0+Zmlyc3RQbGF5ZXJTY29yZSgpOwogICAgICAgICR0aGlzLT50ZW5uaXMtPmZpcnN0UGxheWVyU2NvcmUoKTsKICAgICAgICAkdGhpcy0+d2hlbkdldFNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnNjb3JlU2hvdWxkQmUoJ0ZvcnR5IExvdmUnKTsKICAgIH0K</text>
+        <text encoding="base64">ZnVuY3Rpb24gdGVzdEdldFNjb3JlTG92ZUZpZnRlZW4oKQogICAgewogICAgICAgICR0aGlzLT50ZW5uaXMtPnNlY29uZFBsYXllclNjb3JlKCk7CiAgICAgICAgJHRoaXMtPndoZW5HZXRTY29yZSgpOwogICAgICAgICR0aGlzLT5zY29yZVNob3VsZEJlKCdMb3ZlIEZpZnRlZW4nKTsKICAgIH0K</text>
       </register>
       <register name="c" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>'Forty'</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
