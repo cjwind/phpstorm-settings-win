@@ -81,11 +81,11 @@
       <file name="/a.dummy" timestamp="1591494263758">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/source/tdd/tdd-workshop/tests/TennisTest.php" timestamp="1591499033623">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="D:/source/tdd/tdd-workshop/tests/TennisTest.php" timestamp="1591499565718">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="4" />
+        <mark key="]" line="59" column="4" />
+        <mark key="." line="59" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -98,15 +98,29 @@
       <jump line="46" column="8" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="42" column="4" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="57" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
-      <jump line="48" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
-      <jump line="33" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="41" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="48" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="17" column="21" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="7" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="59" column="4" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="62" column="4" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="55" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="51" column="40" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="50" column="4" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="56" column="4" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="38" column="8" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="52" column="8" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="63" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="33" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="60" column="8" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="47" column="4" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="0" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdEdldFNjb3JlRm9ydHlMb3ZlKCkKICAgIHsKICAgICAgICAkdGhpcy0+dGVubmlzLT5maXJzdFBsYXllclNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnRlbm5pcy0+Zmlyc3RQbGF5ZXJTY29yZSgpOwogICAgICAgICR0aGlzLT50ZW5uaXMtPmZpcnN0UGxheWVyU2NvcmUoKTsKICAgICAgICAkdGhpcy0+d2hlbkdldFNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnNjb3JlU2hvdWxkQmUoJ0ZvcnR5IExvdmUnKTsKICAgIH0K</text>
+        <text encoding="base64">ewogICAgICAgICR0aGlzLT50ZW5uaXMgPSBuZXcgVGVubmlzKCk7CiAgICAgICAgcGFyZW50OjpzZXRVcCgpOwogICAgfQ==</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -115,31 +129,31 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdEdldFNjb3JlRm9ydHlMb3ZlKCkKICAgIHsKICAgICAgICAkdGhpcy0+dGVubmlzLT5maXJzdFBsYXllclNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnRlbm5pcy0+Zmlyc3RQbGF5ZXJTY29yZSgpOwogICAgICAgICR0aGlzLT50ZW5uaXMtPmZpcnN0UGxheWVyU2NvcmUoKTsKICAgICAgICAkdGhpcy0+d2hlbkdldFNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnNjb3JlU2hvdWxkQmUoJ0ZvcnR5IExvdmUnKTsKICAgIH0K</text>
+        <text encoding="base64">ewogICAgICAgICR0aGlzLT50ZW5uaXMgPSBuZXcgVGVubmlzKCk7CiAgICAgICAgcGFyZW50OjpzZXRVcCgpOwogICAgfQ==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdEdldFNjb3JlRm9ydHlMb3ZlKCkKICAgIHsKICAgICAgICAkdGhpcy0+dGVubmlzLT5maXJzdFBsYXllclNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnRlbm5pcy0+Zmlyc3RQbGF5ZXJTY29yZSgpOwogICAgICAgICR0aGlzLT50ZW5uaXMtPmZpcnN0UGxheWVyU2NvcmUoKTsKICAgICAgICAkdGhpcy0+d2hlbkdldFNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnNjb3JlU2hvdWxkQmUoJ0ZvcnR5IExvdmUnKTsKICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRTY29yZSgpCiAgICB7CiAgICAgICAgaWYgKCR0aGlzLT5maXJzdFBsYXllclNjb3JlQ291bnQgPj0gMSkgewo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgIGlmICgkdGhpcy0+Zmlyc3RQbGF5ZXJTY29yZUNvdW50ID09IDIpIHsKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmOjpTQ09SRV9NQVBbJHRoaXMtPmZpcnN0UGxheWVyU2NvcmVDb3VudF0gLiAnIExvdmUnOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgaWYgKCR0aGlzLT5maXJzdFBsYXllclNjb3JlQ291bnQgPT0gMykgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAnRm9ydHkgTG92ZSc7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpZihmamRhKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+dGVubmlzLT5maXJzdFBsYXllclNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnRlbm5pcy0+Zmlyc3RQbGF5ZXJTY29yZSgpOwogICAgICAgICR0aGlzLT50ZW5uaXMtPmZpcnN0UGxheWVyU2NvcmUoKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0VEVzdCgpCg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
