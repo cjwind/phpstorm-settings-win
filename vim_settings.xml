@@ -46,6 +46,7 @@
         <entry>reg clean</entry>
         <entry>reg</entry>
         <entry>actionlist</entry>
+        <entry>action EditorDuplicateLines</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -122,12 +123,12 @@
         <mark key="." line="276" column="71" />
         <mark key="^" line="276" column="86" />
       </file>
-      <file name="D:/source/tdd/tdd-workshop/src/Tennis.php" timestamp="1591517499456">
+      <file name="D:/source/tdd/tdd-workshop/src/Tennis.php" timestamp="1591521629830">
         <mark key="b" line="19" column="47" />
         <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="13" />
-        <mark key="^" line="11" column="16" />
-        <mark key="." line="11" column="13" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1591494263758">
         <mark key="[" line="0" column="0" />
@@ -144,7 +145,7 @@
       <file name="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" timestamp="1591502151362">
         <mark key="'" line="126" column="22" />
       </file>
-      <file name="$USER_HOME$/_ideavimrc" timestamp="1591517391189">
+      <file name="$USER_HOME$/_ideavimrc" timestamp="1591521937281">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
@@ -312,7 +313,7 @@
         <text encoding="base64">CQkJCSdnZXRJZCcgPT4gMiwKCQkJCSdnZXRUeXBlJyA9PiAnbWFzdGVyJywKCQkJCSdnZXROdW1iZXInID0+ICc2NTQzMjEwOTg3NjU0MzIxJywKCQkJCSdnZXRNYXNrZWROdW1iZXInID0+ICc2NTQzMjEqKioqKio0MzIxJywKCQkJCSdnZXRFeHBpcmVEYXRlJyA9PiAnMDcyMDI5JywKCQkJCSdnZXRDdmMnID0+ICcyMjInLAoJCQkJJ2dldEhvbGRlck5hbWUnID0+ICdob2xkZXIgbmFtZScsCgkJCQknZ2V0Q291bnRyeU9mSXNzdWUnID0+ICdUVycsCgkJCQknZ2V0SXNzdWluZ0JhbmsnID0+ICdDaXRpJyw=</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist</text>
+        <text>action EditorDuplicateLines</text>
       </register>
     </registers>
   </component>
