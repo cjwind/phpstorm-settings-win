@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Client</entry>
-        <entry>ht</entry>
-        <entry>arr</entry>
-        <entry>For</entry>
-        <entry>Fif</entry>
         <entry encoding="base64">XDxhcnJheV9maWx0ZXJcPg==</entry>
         <entry encoding="base64">XDx0YXJnZXRcPg==</entry>
         <entry>bas</entry>
@@ -25,6 +20,11 @@
         <entry>getId</entry>
         <entry>first</entry>
         <entry>123</entry>
+        <entry>@test</entry>
+        <entry>/</entry>
+        <entry>function</entry>
+        <entry>function test</entry>
+        <entry>public</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
@@ -32,7 +32,16 @@
         <entry>source D:\php_ideavimrc.txt</entry>
         <entry>set</entry>
         <entry>source C:\Users\cjw\vimfiles\.ideavimrc</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action Rerun</entry>
+        <entry>action Inline</entry>
+        <entry>action Move</entry>
         <entry encoding="base64">c291cmNlIEM6XFVzZXJzXGNqd1x2aW1maWxlc1wuaWRlYXZpbXJjIA==</entry>
+        <entry>registers</entry>
+        <entry>action</entry>
+        <entry>action RearrangeCode</entry>
+        <entry>actionList</entry>
+        <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -88,12 +97,18 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F1</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F1</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591492601168">
+      <file name="/Dummy.txt" timestamp="1591516860642">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" timestamp="1591509174203">
@@ -103,12 +118,10 @@
         <mark key="." line="276" column="71" />
         <mark key="^" line="276" column="86" />
       </file>
-      <file name="D:/source/tdd/tdd-workshop/src/Tennis.php" timestamp="1591515569553">
-        <mark key="'" line="19" column="44" />
-        <mark key="[" line="23" column="65" />
-        <mark key="]" line="23" column="76" />
-        <mark key="^" line="23" column="76" />
-        <mark key="." line="23" column="75" />
+      <file name="D:/source/tdd/tdd-workshop/src/Tennis.php" timestamp="1591516665201">
+        <mark key="b" line="19" column="47" />
+        <mark key="^" line="25" column="76" />
+        <mark key="." line="17" column="30" />
       </file>
       <file name="/a.dummy" timestamp="1591494263758">
         <mark key="[" line="0" column="0" />
@@ -130,24 +143,17 @@
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="D:/source/tdd/tdd-workshop/tests/TennisTest.php" timestamp="1591511962385">
-        <mark key="'" line="52" column="28" />
-        <mark key="[" line="53" column="23" />
-        <mark key="]" line="53" column="23" />
-        <mark key="." line="53" column="28" />
+      <file name="D:/source/tdd/tdd-workshop/tests/TennisTest.php" timestamp="1591516925068">
+        <mark key="b" line="57" column="0" />
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="57" column="7" />
+        <mark key="]" line="60" column="1" />
         <mark key="^" line="36" column="29" />
+        <mark key="." line="49" column="43" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="8" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
-      <jump line="60" column="8" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
-      <jump line="47" column="4" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
-      <jump line="0" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
-      <jump line="26" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
-      <jump line="33" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
-      <jump line="7" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="63" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
-      <jump line="57" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="48" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="41" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="18" column="30" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
@@ -167,8 +173,6 @@
       <jump line="54" column="15" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="27" column="0" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
       <jump line="55" column="30" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
-      <jump line="49" column="32" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
-      <jump line="27" column="32" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="11" column="14" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
       <jump line="9" column="14" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
       <jump line="71" column="34" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
@@ -238,16 +242,29 @@
       <jump line="549" column="8" filename="D:/source/travelskope/utb/test/php/tests/unit/models/AgodaBookerTest.php" />
       <jump line="537" column="68" filename="D:/source/travelskope/utb/test/php/tests/unit/models/AgodaBookerTest.php" />
       <jump line="591" column="4" filename="D:/source/travelskope/utb/test/php/tests/unit/models/AgodaBookerTest.php" />
-      <jump line="19" column="44" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
+      <jump line="59" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="65" column="26" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="19" column="8" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
+      <jump line="25" column="35" filename="D:/source/tdd/tdd-workshop/src/Tennis.php" />
+      <jump line="57" column="38" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="27" column="4" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="39" column="27" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="33" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="35" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="49" column="4" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="67" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">CQkJCSdnZXRDdmMnID0+ICcyMjInLAo=</text>
+      <register name="a" type="4">
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">cHVibGljIA==</text>
+      </register>
+      <register name="b" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gdGVzdEdldFNjb3JlRm9ydHlMb3ZlKCkKICAgIHsKICAgICAgICAkdGhpcy0+dGVubmlzLT5maXJzdFBsYXllclNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnRlbm5pcy0+Zmlyc3RQbGF5ZXJTY29yZSgpOwogICAgICAgICR0aGlzLT50ZW5uaXMtPmZpcnN0UGxheWVyU2NvcmUoKTsKICAgICAgICAkdGhpcy0+d2hlbkdldFNjb3JlKCk7CiAgICAgICAgJHRoaXMtPnNjb3JlU2hvdWxkQmUoJ0ZvcnR5IExvdmUnKTsKICAgIH0K</text>
       </register>
       <register name="c" type="4">
         <text>a</text>
@@ -256,7 +273,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>123</text>
+        <text>public</text>
       </register>
       <register name="0" type="4">
         <text>123456******3456</text>
@@ -289,23 +306,23 @@
         <text encoding="base64">CQkJCSdnZXRJZCcgPT4gMiwKCQkJCSdnZXRUeXBlJyA9PiAnbWFzdGVyJywKCQkJCSdnZXROdW1iZXInID0+ICc2NTQzMjEwOTg3NjU0MzIxJywKCQkJCSdnZXRNYXNrZWROdW1iZXInID0+ICc2NTQzMjEqKioqKio0MzIxJywKCQkJCSdnZXRFeHBpcmVEYXRlJyA9PiAnMDcyMDI5JywKCQkJCSdnZXRDdmMnID0+ICcyMjInLAoJCQkJJ2dldEhvbGRlck5hbWUnID0+ICdob2xkZXIgbmFtZScsCgkJCQknZ2V0Q291bnRyeU9mSXNzdWUnID0+ICdUVycsCgkJCQknZ2V0SXNzdWluZ0JhbmsnID0+ICdDaXRpJyw=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">c291cmNlIEM6XFVzZXJzXGNqd1x2aW1maWxlc1wuaWRlYXZpbXJjIA==</text>
+        <text>actionlist</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>123</last-search>
+      <last-search>public</last-search>
       <last-offset />
-      <last-pattern>123</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>public</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
     <notifications>
-      <idea-join enabled="false" />
+      <idea-join enabled="true" />
       <idea-put enabled="false" />
     </notifications>
   </component>
