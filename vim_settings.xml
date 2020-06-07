@@ -30,6 +30,7 @@
         <entry>set nu</entry>
         <entry>set rnu</entry>
         <entry>set</entry>
+        <entry>source D:\php_ideavimrc.txt</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -281,7 +282,7 @@
         <text encoding="base64">CQkJCSdnZXRJZCcgPT4gMiwKCQkJCSdnZXRUeXBlJyA9PiAnbWFzdGVyJywKCQkJCSdnZXROdW1iZXInID0+ICc2NTQzMjEwOTg3NjU0MzIxJywKCQkJCSdnZXRNYXNrZWROdW1iZXInID0+ICc2NTQzMjEqKioqKio0MzIxJywKCQkJCSdnZXRFeHBpcmVEYXRlJyA9PiAnMDcyMDI5JywKCQkJCSdnZXRDdmMnID0+ICcyMjInLAoJCQkJJ2dldEhvbGRlck5hbWUnID0+ICdob2xkZXIgbmFtZScsCgkJCQknZ2V0Q291bnRyeU9mSXNzdWUnID0+ICdUVycsCgkJCQknZ2V0SXNzdWluZ0JhbmsnID0+ICdDaXRpJyw=</text>
       </register>
       <register name=":" type="4">
-        <text>set</text>
+        <text>source D:\php_ideavimrc.txt</text>
       </register>
     </registers>
   </component>
