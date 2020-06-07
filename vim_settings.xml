@@ -4,7 +4,13 @@
   </component>
   <component name="VimHistorySettings">
     <history>
-      <history-cmd />
+      <history-search />
+      <history-cmd>
+        <entry>set rnu</entry>
+        <entry>set nu</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
@@ -65,11 +71,11 @@
       <file name="/Dummy.txt" timestamp="1591492601168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/source/tdd/tdd-workshop/src/Tennis.php" timestamp="1591496951417">
-        <mark key="[" line="25" column="6" />
-        <mark key="]" line="25" column="6" />
-        <mark key="^" line="25" column="6" />
-        <mark key="." line="25" column="5" />
+      <file name="D:/source/tdd/tdd-workshop/src/Tennis.php" timestamp="1591497153299">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="27" column="17" />
+        <mark key="^" line="27" column="17" />
+        <mark key="." line="27" column="16" />
       </file>
       <file name="/a.dummy" timestamp="1591494263758">
         <mark key="[" line="0" column="0" />
@@ -110,6 +116,9 @@
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0VEVzdCgpCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>set nu</text>
       </register>
       <register name="-" type="4">
         <text>'Thirty'</text>
