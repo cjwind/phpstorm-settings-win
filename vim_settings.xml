@@ -4,7 +4,13 @@
   </component>
   <component name="VimHistorySettings">
     <history>
-      <history-search />
+      <history-search>
+        <entry>fet</entry>
+        <entry>Cli</entry>
+        <entry>Client</entry>
+        <entry>ht</entry>
+        <entry>arr</entry>
+      </history-search>
       <history-cmd>
         <entry>set nu</entry>
         <entry>set rnu</entry>
@@ -81,6 +87,9 @@
       <file name="/a.dummy" timestamp="1591494263758">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" timestamp="1591502007270">
+        <mark key="'" line="111" column="26" />
+      </file>
       <file name="D:/source/tdd/tdd-workshop/tests/TennisTest.php" timestamp="1591500291859">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="59" column="4" />
@@ -117,6 +126,21 @@
       <jump line="57" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="48" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
       <jump line="41" column="0" filename="D:/source/tdd/tdd-workshop/tests/TennisTest.php" />
+      <jump line="18" column="30" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="25" column="11" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="26" column="9" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="28" column="45" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="32" column="13" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="38" column="17" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="59" column="4" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="65" column="21" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="73" column="44" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="94" column="21" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="70" column="22" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="3" column="15" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="112" column="22" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="99" column="22" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
+      <jump line="111" column="26" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -126,6 +150,9 @@
       </register>
       <register name="-" type="4">
         <text>t</text>
+      </register>
+      <register name="/" type="4">
+        <text>arr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
@@ -164,7 +191,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>arr</last-search>
+      <last-offset />
+      <last-pattern>arr</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
