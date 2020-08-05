@@ -39,7 +39,6 @@
         <entry>action AceTargetAction</entry>
         <entry>action ReformatCode</entry>
         <entry>action Rerun</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action NextMethod</entry>
         <entry>action Next</entry>
         <entry>actionlist</entry>
@@ -47,6 +46,7 @@
         <entry>suround</entry>
         <entry>set surround</entry>
         <entry encoding="base64">c291cmNlIEM6XFVzZXJzXGNqd1xfaWRlYXZpbXJjIA==</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -116,6 +116,20 @@
       <file name="/Dummy.txt" timestamp="1591516860642">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/TravelSkope/source/utb/flight/travelFusion/channels/TravelFusionResponseParser.php" timestamp="1596614261054" />
+      <file name="/a.dummy" timestamp="1591494263758">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/TravelSkope/source/utb/flight/travelFusion/channels/TravelFusionSearchResultMergerInterface.php" timestamp="1596614621206" />
+      <file name="D:/source/tdd/tdd-workshop/tests/TennisTest.php" timestamp="1592125748284">
+        <mark key="b" line="48" column="0" />
+        <mark key="'" line="49" column="27" />
+        <mark key="[" line="58" column="4" />
+        <mark key="]" line="58" column="28" />
+        <mark key="^" line="48" column="0" />
+        <mark key="." line="58" column="28" />
+      </file>
+      <file name="D:/TravelSkope/source/utb/flight/travelFusion/channels/TravelFusionSearchResponseHandler.php" timestamp="1596615179018" />
       <file name="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" timestamp="1591509174203">
         <mark key="'" line="200" column="22" />
         <mark key="[" line="276" column="71" />
@@ -131,9 +145,6 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="24" column="49" />
       </file>
-      <file name="/a.dummy" timestamp="1591494263758">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/source/travelskope/utb/test/php/tests/unit/models/AgodaBookerTest.php" timestamp="1591514137933">
         <mark key="a" line="547" column="16" />
         <mark key="'" line="591" column="4" />
@@ -143,23 +154,16 @@
         <mark key="." line="553" column="27" />
         <mark key="^" line="553" column="28" />
       </file>
-      <file name="D:/TravelSkope/source/utb/order/FlightOrderOperator.php" timestamp="1596257468115" />
       <file name="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" timestamp="1591502151362">
         <mark key="'" line="126" column="22" />
       </file>
+      <file name="D:/TravelSkope/source/utb/flight/travelFusion/channels/searchResultMerger/NbyNMerger.php" timestamp="1596614494405" />
       <file name="$USER_HOME$/_ideavimrc" timestamp="1591525332569">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="D:/source/tdd/tdd-workshop/tests/TennisTest.php" timestamp="1592125748284">
-        <mark key="b" line="48" column="0" />
-        <mark key="'" line="49" column="27" />
-        <mark key="[" line="58" column="4" />
-        <mark key="]" line="58" column="28" />
-        <mark key="^" line="48" column="0" />
-        <mark key="." line="58" column="28" />
-      </file>
+      <file name="D:/TravelSkope/source/utb/test/php/tests/_data/flight/travelFusion/checkRouting_normal.xml" timestamp="1596614324522" />
     </filemarks>
     <jumps>
       <jump line="32" column="13" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
@@ -315,7 +319,7 @@
         <text encoding="base64">CgkJJGZha2VMb2cgPSBTdHViOjptYWtlRW1wdHkoSUFnb2RhQm9va2luZ0F1dGhMb2dEYW86OmNsYXNzKTsKCQkkbW9ja0Jvb2tpbmdBdXRoTG9nU3RvcmFnZSA9IG06Om1vY2soSUFnb2RhQm9va2luZ0F1dGhMb2dTdG9yYWdlOjpjbGFzcyk7CgkJJG1vY2tCb29raW5nQXV0aExvZ1N0b3JhZ2UtPmV4cGVjdHMoKS0+Y3JlYXRlTG9nKCRvcmRlci0+aWQsICcxMjM0NTYqKioqKiozNDU2JywgMSktPmFuZFJldHVybigkZmFrZUxvZyktPm9uY2UoKTsKCQkkbW9ja0Jvb2tpbmdBdXRoTG9nU3RvcmFnZS0+ZXhwZWN0cygpLT51cGRhdGVMb2coJGZha2VMb2csIHRydWUsIG51bGwpLT5vbmNlKCk7CgoJCSRib29rZXIgPSBuZXcgQWdvZGFCb29rZXIoU3R1Yjo6bWFrZUVtcHR5KEFnb2RhOjpjbGFzcywgWwoJCQknYm9va2luZycgPT4gU3R1Yjo6bWFrZUVtcHR5KEFnb2RhQm9va2luZ1Jlc3BvbnNlOjpjbGFzcywgWwoJCQkJJ2lzQ3JlZGl0Q2FyZEVycm9yJyA9PiBmYWxzZSwKCQkJCSdpc1N1Y2Nlc3MnID0+IHRydWUsCgkJCV0sICR0aGlzKSwKCQldKSwgbnVsbCwgJHN0dWJDcmVkaXRDYXJkUG9vbCwgJG1vY2tCb29raW5nQXV0aExvZ1N0b3JhZ2UpOwoKCQkkYm9va2VyLT5ib29raW5nKCRvcmRlcik7Cgl9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">c291cmNlIEM6XFVzZXJzXGNqd1xfaWRlYXZpbXJjIA==</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
   </component>
