@@ -116,11 +116,9 @@
       <file name="/Dummy.txt" timestamp="1591516860642">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/TravelSkope/source/utb/flight/travelFusion/channels/TravelFusionResponseParser.php" timestamp="1596614261054" />
       <file name="/a.dummy" timestamp="1591494263758">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/TravelSkope/source/utb/flight/travelFusion/channels/TravelFusionSearchResultMergerInterface.php" timestamp="1596614621206" />
       <file name="D:/source/tdd/tdd-workshop/tests/TennisTest.php" timestamp="1592125748284">
         <mark key="b" line="48" column="0" />
         <mark key="'" line="49" column="27" />
@@ -129,7 +127,6 @@
         <mark key="^" line="48" column="0" />
         <mark key="." line="58" column="28" />
       </file>
-      <file name="D:/TravelSkope/source/utb/flight/travelFusion/channels/TravelFusionSearchResponseHandler.php" timestamp="1596615179018" />
       <file name="D:/source/travelskope/utb/hotel/agoda/AgodaBooker.php" timestamp="1591509174203">
         <mark key="'" line="200" column="22" />
         <mark key="[" line="276" column="71" />
@@ -157,13 +154,16 @@
       <file name="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" timestamp="1591502151362">
         <mark key="'" line="126" column="22" />
       </file>
-      <file name="D:/TravelSkope/source/utb/flight/travelFusion/channels/searchResultMerger/NbyNMerger.php" timestamp="1596614494405" />
+      <file name="D:/TravelSkope/source/TravelCorp/commands/FlightSearchServiceController.php" timestamp="1598432138335">
+        <mark key="[" line="31" column="72" />
+        <mark key="]" line="31" column="73" />
+        <mark key="." line="31" column="73" />
+      </file>
       <file name="$USER_HOME$/_ideavimrc" timestamp="1591525332569">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="D:/TravelSkope/source/utb/test/php/tests/_data/flight/travelFusion/checkRouting_normal.xml" timestamp="1596614324522" />
     </filemarks>
     <jumps>
       <jump line="32" column="13" filename="D:/source/travelskope/utb/models/CurrencyRateUpdater.php" />
