@@ -38,6 +38,14 @@
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="Tool_Navisteps_dev db migrate status">
     <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt s" />
   </action>
