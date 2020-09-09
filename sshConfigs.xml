@@ -1,7 +1,9 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="twdev.7nm.org" id="442cfe7e-9496-4324-8f7b-23c683330355" port="22" customName="twdev" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="twdev.7nm.org" id="442cfe7e-9496-4324-8f7b-23c683330355" port="22" customName="twdev" nameFormat="CUSTOM" username="zoe">
+        <option name="customName" value="twdev" />
+      </sshConfig>
     </configs>
   </component>
 </application>
